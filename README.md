@@ -20,7 +20,7 @@
     3. ujophis
     4. sdolhk
 
- [Google](https://www.google.com/search?channel=fs&client=ubuntu&q=vrsec)]
+ [Google](https://www.google.com/search?channel=fs&client=ubuntu&q=vrsec)
  
  
- ![pavan](https://www.google.com/search?q=monkey&client=ubuntu&hs=jFM&channel=fs&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjT4tKR88H0AhWzyosBHdcPAdgQ_AUoAXoECAEQAw&biw=1453&bih=748&dpr=0.9)
+ ![pavan](https://static.toiimg.com/photo/84608707.cms)
