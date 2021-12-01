@@ -23,4 +23,4 @@
  [Google](https://www.google.com/search?channel=fs&client=ubuntu&q=vrsec)
  
  
- ![pavan](https://static.toiimg.com/photo/84608707.cms)
+ [pavan](https://static.toiimg.com/photo/84608707.cms)
