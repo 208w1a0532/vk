@@ -28,7 +28,7 @@
 
 Sno|Name|Rno
 ----|----|----
-1|[charan](https://www.google.com/search?channel=fs&client=ubuntu&q=vrsec)|532
+1|[charan](https://upload.wikimedia.org/wikipedia/commons/7/7e/Virat_Kohli.jpg)|532
 2|[pavan](https://cdn.vox-cdn.com/thumbor/oFGuiTBJrDBPPz3G_C8ewGzq-dE=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/assets/4867012/Macaca_nigra_self-portrait__rotated_and_cropped_.jpg)|542
 3|[vinay](https://m.media-amazon.com/images/I/61nbU6HWDhL._SL1184_.jpg)|540
 
