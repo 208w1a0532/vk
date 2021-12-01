@@ -7,3 +7,9 @@
 **BOLD TYPE OF FONT STYLE**
 
 ***BOLD PLUS ITALIC***
+
+* Fruits
+ * oranges
+ * apples
+ * pavans
+ 
